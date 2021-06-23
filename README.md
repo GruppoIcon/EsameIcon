@@ -4,9 +4,9 @@ Repository utilizzato per la consegna del progetto di Ingegneria della Conoscenz
 
 # Progetto a cura di :
 
-Putignano Martino 708842
+Putignano Martino 697513
 
-Scarano Natale 697513
+Scarano Natale 708842
 
 # Informazioni utili
 
