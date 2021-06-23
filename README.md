@@ -10,4 +10,5 @@ Scarano Natale 697513
 
 # Informazioni utili
 
-Progetto realizzato per l'esame di ingegneria della cooscenza dell'Univerità degli studi di Bari Aldo Moro, corso di Informatica.
+Progetto realizzato per l'esame di ingegneria della conoscenza dell'Univerità degli studi di Bari Aldo Moro, corso di Informatica.
+Il progetto è stato realizzato in python e inoltre è presente u
