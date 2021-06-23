@@ -20,6 +20,15 @@ Nel progetto sono stati utilizzati due dataset:
 
 -[Hepatitis](https://archive.ics.uci.edu/ml/datasets/hepatitis)(dataset sull'epatite).
 
+# Software utilizzati
+
+Il codice utilizzato è in Python, tramite l'ide PyCharm.
+È possibile visualizzare il lavoro effettuato nello sviluppo dei vari modelli senza installare alcun software: visualizzando il [file](https://github.com/GruppoIcon/EsameIcon/blob/main/Esame%20Icon/src/COMP551_Project1.ipynb) nel repository.
+
+Il notebook contiene codice e risultati dell’esecuzione del codice e brevi commenti.
+
+Per visionare la versione interattiva del notebook (COMP551_Project1.ipynb) è necessario installare Jupyter sul proprio PC. Il modo più semplice è installando la distribuzione Anaconda, che contiene Jupyter, Python e molte delle librerie utilizzate. Una volta installato si potrà far partire il server Jupyter notebook dall’applicazione Anaconda Navigator:
+
 # Introduzione
 
 Identificare le malattie è il primo passo nel trattamento dei pazienti. Se fatto in modo accurato e tempestivo, potrebbe modificare in modo significativo l'esito del trattamento. Quindi, l'apprendimento automatico può essere un ottimo strumento nella classificazione delle malattie.
