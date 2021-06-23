@@ -22,7 +22,7 @@ Nel progetto sono stati utilizzati due dataset:
 
 # Software utilizzati
 
-Il codice utilizzato è in Python, tramite l'ide PyCharm.
+Abbiamo utilizzato Python come linguaggio, tramite l'ide PyCharm.
 
 È possibile visualizzare il lavoro effettuato nello sviluppo dei vari modelli senza installare alcun software: visualizzando il [file](https://github.com/GruppoIcon/EsameIcon/blob/main/Esame%20Icon/src/COMP551_Project1.ipynb) nel repository.
 
